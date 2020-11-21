@@ -7,5 +7,5 @@
 ## CSS
 - [CSS笔记](/docs/CSS/CSS基本样式.md)
 
-##
+## JS
 - [JS笔记](/docs/JS/JS.md)
