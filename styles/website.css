@@ -31,8 +31,10 @@ h1 , h2{
 pre[class*="language-"] {
     border: none;
     background-color: #272a3a;
-    font-size: 1em;
-    line-height: 1.4em;
+    font-size: 16px;
+    line-height: 1.5em;
+    font-family: 'Inconsolata', consolas,"PingFang SC", "Microsoft YaHei", monospace !important;
+
 }
 
 .book .book-body .page-wrapper .page-inner section.normal {
